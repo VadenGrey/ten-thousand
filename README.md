@@ -4,7 +4,7 @@
 ### Author: Mathieu Roberts
 
 ### Links and Resources
-- [Github repo](https://github.com/VadenGrey/pythonic-garage-band)
+- [Github repo](https://github.com/VadenGrey/ten-thousand)
 
 ### Setup
 .venv requirements:
@@ -23,8 +23,8 @@
 
 ### How to Initialize:
 
-    use pytest in the pythonic-garage-band directory
+    use pytest in the ten-thousand directory
 
 ### Tests
     
-Tests were pre-written and none skipped
+All tests pass, were pre-written, and none skipped
