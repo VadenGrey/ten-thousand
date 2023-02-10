@@ -1,4 +1,4 @@
-# Lab - Class 06
+# Lab - Class 07
 
 # Project: Ten-Thousand
 ### Author: Mathieu Roberts
@@ -23,8 +23,9 @@
 
 ### How to Initialize:
 
-    use pytest in the ten-thousand directory
+    run python -m ten_thousand.game on your terminal in the ten-thousand directory
 
 ### Tests
     
-All tests pass, were pre-written, and none skipped
+For game_logic.py all tests pass, were pre-written, and none skipped
+For game.py code is identical to simulations
